@@ -1,0 +1,241 @@
+Complete List of Mining & Quarrying (Metals, Minerals, Coal, Oil & Gas) AI Tools & AI Software
+
+1. AI Exploration & Geological Modeling
+AI Tool
+Brief Description
+Official Website
+Seequent Leapfrog Geo
+AI-powered 3D geological modeling and mineral exploration.
+https://www.seequent.com
+Datamine Discover
+AI-assisted geological mapping and exploration.
+https://www.dataminesoftware.com
+Micromine Origin
+AI platform for geological data analysis.
+https://www.micromine.com
+Earth AI
+AI discovers new mineral deposits using geoscience data.
+https://earth-ai.com
+GoldSpot Discoveries
+AI predicts high-potential mineral targets.
+https://www.goldspot.ca
+KoBold Metals
+AI-driven mineral exploration platform.
+https://www.koboldmetals.com
+2. AI Mine Planning & Resource Optimization
+AI Tool
+Brief Description
+Official Website
+Hexagon MinePlan
+AI optimizes mine planning and scheduling.
+https://hexagon.com
+Deswik Suite
+AI-powered mine design and production planning.
+https://www.deswik.com
+RPMGlobal XPAC
+AI improves mine scheduling and resource planning.
+https://www.rpmglobal.com
+Datamine Studio
+AI platform for mine design and reserve estimation.
+https://www.dataminesoftware.com
+Micromine Beyond
+AI-powered strategic mine planning.
+https://www.micromine.com
+GEOVIA Surpac
+AI-assisted mine planning and geological modeling.
+https://www.3ds.com/geovia
+3. AI Autonomous Mining Equipment
+AI Tool
+Brief Description
+Official Website
+Caterpillar MineStar
+AI automates mining equipment and fleet operations.
+https://www.cat.com
+Komatsu FrontRunner
+AI-powered autonomous haulage system.
+https://www.komatsu.com
+Epiroc Mobilaris Mining Intelligence
+AI improves underground mining operations.
+https://www.epiroc.com
+Sandvik AutoMine
+AI automates underground mining equipment.
+https://www.rocktechnology.sandvik
+Hitachi Solution Linkage
+AI optimizes mining machine performance.
+https://www.hitachicm.com
+ABB Ability Operations
+AI automates mining process control.
+https://global.abb
+4. AI Predictive Maintenance & Asset Management
+AI Tool
+Brief Description
+Official Website
+IBM Maximo Application Suite
+AI predicts equipment failures and maintenance needs.
+https://www.ibm.com/maximo
+Siemens Senseye
+AI-powered predictive maintenance platform.
+https://senseye.io
+Aspen Mtell
+AI predicts failures in mining equipment.
+https://www.aspentech.com
+GE Vernova APM
+AI monitors industrial asset health.
+https://www.gevernova.com
+AVEVA Predictive Analytics
+AI forecasts equipment issues before failure.
+https://www.aveva.com
+SparkCognition
+AI detects equipment anomalies in real time.
+https://sparkcognition.com
+5. AI Oil & Gas Exploration & Production
+AI Tool
+Brief Description
+Official Website
+SLB Delfi
+AI-powered exploration and reservoir management.
+https://www.slb.com
+Halliburton DecisionSpace
+AI optimizes drilling and production operations.
+https://www.halliburton.com
+Baker Hughes Cordant
+AI platform for oilfield performance optimization.
+https://www.bakerhughes.com
+Emerson Roxar
+AI-powered reservoir modeling and monitoring.
+https://www.emerson.com
+AspenTech Subsurface Science
+AI enhances hydrocarbon exploration.
+https://www.aspentech.com
+Oliasoft WellDesign
+AI-assisted well planning and drilling design.
+https://oliasoft.com
+6. AI Drone Inspection & Remote Monitoring
+AI Tool
+Brief Description
+Official Website
+DJI Terra
+AI drone mapping for mines and quarries.
+https://www.dji.com
+Pix4D
+AI-powered aerial surveying and mapping.
+https://www.pix4d.com
+DroneDeploy
+AI drone inspections for mining operations.
+https://www.dronedeploy.com
+Delair
+AI aerial intelligence for industrial sites.
+https://delair.aero
+Skydio 3D Scan
+AI autonomous drone inspections.
+https://www.skydio.com
+ExynAI
+AI autonomous drones for underground mining.
+https://www.exyn.com
+7. AI Safety, Risk & Environmental Monitoring
+AI Tool
+Brief Description
+Official Website
+IntelliSense.io
+AI optimizes mining performance and sustainability.
+https://www.intellisense.io
+Everguard.ai
+AI improves worker safety and hazard detection.
+https://everguard.ai
+MineSense
+AI analyzes ore quality in real time.
+https://www.minesense.com
+K2fly
+AI supports ESG and environmental compliance.
+https://k2fly.com
+EarthSoft EQuIS
+AI monitors environmental and groundwater data.
+https://www.earthsoft.com
+SafetyCulture
+AI-powered workplace inspections and compliance.
+https://safetyculture.com
+8. AI Business Intelligence & Analytics
+AI Tool
+Brief Description
+Official Website
+Microsoft Power BI Copilot
+AI-powered mining dashboards and reporting.
+https://powerbi.microsoft.com
+Tableau Pulse
+AI-driven mining analytics platform.
+https://www.tableau.com
+Qlik Sense
+AI-powered mining data analytics.
+https://www.qlik.com
+ThoughtSpot
+AI search-driven mining insights.
+https://www.thoughtspot.com
+DataRobot
+AI platform for predictive mining analytics.
+https://www.datarobot.com
+KNIME Analytics Platform
+AI workflows for mining data analysis.
+https://www.knime.com
+9. AI Research & Productivity
+AI Tool
+Brief Description
+Official Website
+ChatGPT
+AI assistant for mining research, reports, and documentation.
+https://chatgpt.com
+Claude
+AI assistant for technical writing and mine planning.
+https://claude.ai
+Google Gemini
+AI assistant for mining and geological research.
+https://gemini.google.com
+Perplexity AI
+AI-powered mining research engine.
+https://www.perplexity.ai
+NotebookLM
+AI notebook for summarizing mining documents.
+https://notebooklm.google.com
+Elicit
+AI literature review for mining research.
+https://elicit.com
+SciSpace
+AI explains mining and earth science papers.
+https://typeset.io
+Consensus
+AI-powered academic search engine.
+https://consensus.app
+ResearchRabbit
+AI discovers mining research publications.
+https://www.researchrabbit.ai
+10. AI Machine Learning Platforms
+AI Tool
+Brief Description
+Official Website
+TensorFlow
+Open-source deep learning framework for mining AI.
+https://www.tensorflow.org
+PyTorch
+Machine learning framework for mining applications.
+https://pytorch.org
+Scikit-learn
+Machine learning library for mining analytics.
+https://scikit-learn.org
+H2O.ai
+AutoML platform for mining forecasting.
+https://h2o.ai
+Google Vertex AI
+Cloud AI platform for mining applications.
+https://cloud.google.com/vertex-ai
+Azure Machine Learning
+AI platform for mining model development.
+https://azure.microsoft.com/products/machine-learning
+Amazon SageMaker
+AWS AI platform for mining analytics.
+https://aws.amazon.com/sagemaker
+Databricks AI
+AI-powered analytics platform for mining datasets.
+https://www.databricks.com
+Are you looking for a team? Post your project here:
+https://workcroft.com/
+Are you looking for projects? Find projects here:
+https://workcroft.com/

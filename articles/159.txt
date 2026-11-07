@@ -1,0 +1,238 @@
+Complete List of Mobile & Fixed Networks AI Tools & AI Software
+
+1. AI Radio Access Network (RAN) Optimization
+AI Tool / Software
+Brief Description
+Official Website
+Ericsson Intelligent RAN Automation
+AI optimizes 4G/5G radio networks.
+https://www.ericsson.com
+Nokia MantaRay SON
+AI automates radio network optimization.
+https://www.nokia.com
+Huawei NetMaster AI
+AI improves mobile network performance.
+https://www.huawei.com
+Samsung CognitiV Network Operations
+AI-powered RAN optimization for 5G.
+https://www.samsung.com
+AirHop AI
+AI optimizes LTE and 5G RAN performance.
+https://airhopcomm.com
+Parallel Wireless AI
+AI-driven Open RAN automation.
+https://www.parallelwireless.com
+2. AI 5G & 6G Network Management
+AI Tool / Software
+Brief Description
+Official Website
+Ericsson Intelligent Automation Platform
+AI automates 5G network operations.
+https://www.ericsson.com
+Nokia Digital Operations Center
+AI manages 5G network services.
+https://www.nokia.com
+Huawei iMaster NCE
+AI-powered intelligent network management.
+https://www.huawei.com
+Mavenir AI
+AI-native cloud platform for 5G networks.
+https://www.mavenir.com
+ZTE iMaster AI
+AI automates next-generation mobile networks.
+https://www.zte.com.cn
+Cisco Crosswork
+AI manages carrier-grade IP networks.
+https://www.cisco.com
+3. AI Fixed Broadband & Fiber Network Management
+AI Tool / Software
+Brief Description
+Official Website
+Nokia Altiplano
+AI manages fiber access networks.
+https://www.nokia.com
+Calix Cloud
+AI optimizes broadband customer experience.
+https://www.calix.com
+Adtran Mosaic
+AI manages fiber and broadband services.
+https://www.adtran.com
+Huawei OptiX Network AI
+AI optimizes optical transport networks.
+https://www.huawei.com
+Plume WorkPass
+AI-powered Wi-Fi optimization platform.
+https://www.plume.com
+Cambium cnMaestro X
+AI manages wireless broadband infrastructure.
+https://www.cambiumnetworks.com
+4. AI Network Monitoring & AIOps
+AI Tool / Software
+Brief Description
+Official Website
+Dynatrace Davis AI
+AI monitors telecom infrastructure.
+https://www.dynatrace.com
+IBM Instana
+AI-powered application and network monitoring.
+https://www.ibm.com/products/instana
+Datadog AI
+AI-powered observability platform.
+https://www.datadoghq.com
+Splunk AI Assistant
+AI analyzes network logs and events.
+https://www.splunk.com
+LogicMonitor Edwin AI
+AI automates infrastructure monitoring.
+https://www.logicmonitor.com
+New Relic AI
+AI detects service issues automatically.
+https://newrelic.com
+5. AI Customer Experience & Virtual Assistants
+AI Tool / Software
+Brief Description
+Official Website
+Salesforce Einstein AI
+AI-powered telecom customer support.
+https://www.salesforce.com
+Microsoft Copilot
+AI assistant for telecom operations.
+https://copilot.microsoft.com
+Google Gemini
+AI-powered customer interaction platform.
+https://gemini.google.com
+ChatGPT
+AI chatbot for customer support and documentation.
+https://chatgpt.com
+Cognigy AI
+AI automates telecom customer service.
+https://www.cognigy.com
+Kore.ai
+AI virtual assistants for telecom providers.
+https://kore.ai
+6. AI Network Security & Fraud Detection
+AI Tool / Software
+Brief Description
+Official Website
+Microsoft Security Copilot
+AI-powered telecom security assistant.
+https://www.microsoft.com/security
+Darktrace
+AI detects cyber threats in telecom networks.
+https://www.darktrace.com
+CrowdStrike Falcon
+AI-powered endpoint security.
+https://www.crowdstrike.com
+SentinelOne Purple AI
+AI-based endpoint detection and response.
+https://www.sentinelone.com
+Palo Alto Cortex XSIAM
+AI-driven security operations platform.
+https://www.paloaltonetworks.com
+Subex HyperSense AI
+AI detects telecom fraud and revenue leakage.
+https://www.subex.com
+7. AI OSS/BSS & Telecom Operations
+AI Tool / Software
+Brief Description
+Official Website
+Netcracker AI
+AI automates OSS/BSS operations.
+https://www.netcracker.com
+Amdocs amAIz
+AI platform for telecom business processes.
+https://www.amdocs.com
+Oracle Communications AI
+AI-powered telecom billing and CRM.
+https://www.oracle.com
+CSG Ascendon AI
+AI digital monetization platform.
+https://www.csgi.com
+Optiva AI
+AI-powered charging and billing platform.
+https://www.optiva.com
+Nokia FlowOne
+AI automates service fulfillment.
+https://www.nokia.com
+8. AI Predictive Maintenance & Asset Management
+AI Tool / Software
+Brief Description
+Official Website
+IBM Maximo Application Suite
+AI predicts telecom equipment failures.
+https://www.ibm.com/maximo
+Siemens Senseye Predictive Maintenance
+AI predicts maintenance requirements.
+https://www.siemens.com
+ABB Ability
+AI monitors telecom assets.
+https://global.abb
+Hitachi Lumada
+AI-powered asset intelligence platform.
+https://www.hitachivantara.com
+SAP Asset Performance Management
+AI improves asset reliability.
+https://www.sap.com
+GE Vernova APM
+AI manages telecom infrastructure assets.
+https://www.gevernova.com
+9. AI Analytics & Business Intelligence
+AI Tool / Software
+Brief Description
+Official Website
+Microsoft Power BI Copilot
+AI-powered telecom dashboards.
+https://powerbi.microsoft.com
+Tableau Pulse
+AI-driven business intelligence.
+https://www.tableau.com
+Qlik Sense
+AI-powered telecom analytics.
+https://www.qlik.com
+ThoughtSpot
+AI search-driven data analytics.
+https://www.thoughtspot.com
+SAS Viya
+AI predictive analytics platform.
+https://www.sas.com
+DataRobot
+AI forecasts customer churn and usage.
+https://www.datarobot.com
+Databricks AI
+AI-powered telecom data platform.
+https://www.databricks.com
+Snowflake Cortex AI
+AI cloud analytics platform.
+https://www.snowflake.com
+10. AI Machine Learning & Development Platforms
+AI Tool / Software
+Brief Description
+Official Website
+TensorFlow
+Open-source machine learning framework.
+https://www.tensorflow.org
+PyTorch
+Deep learning framework for telecom AI.
+https://pytorch.org
+Hugging Face
+AI models for networking, NLP, and speech.
+https://huggingface.co
+LangChain
+Framework for AI assistants and telecom automation.
+https://www.langchain.com
+LlamaIndex
+Framework for Retrieval-Augmented Generation (RAG).
+https://www.llamaindex.ai
+MLflow
+AI model lifecycle management platform.
+https://mlflow.org
+Weights & Biases
+AI experiment tracking and collaboration.
+https://wandb.ai
+Dataiku
+Enterprise AI platform for telecom analytics.
+https://www.dataiku.com
+Are you looking for a team? Post your project here:
+https://workcroft.com/
+Are you looking for projects? Find projects here:
+https://workcroft.com/
