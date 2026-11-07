@@ -260,12 +260,10 @@ notepad articles\1.txt             # spot-check: title + body only
 **Scraping**
 - Add concurrent downloads (`concurrent.futures` or `aiohttp`) to cut extraction from ~15 minutes to a few.
 - Add automatic retries with exponential backoff for failed URLs.
-- Cache downloaded HTML so selector changes don't require re-downloading.
 - Use `Selenium` or `Playwright` as a fallback for JavaScript-rendered pages.
 
 **Analysis**
 - Use a pronunciation dictionary (e.g. `pyphen` or `cmudict`) for more accurate syllable counts.
-- Improve pronoun detection with a POS tagger.
 - Add negation handling (e.g. "not good") to sentiment scoring.
 - Cache stop-word and dictionary loading across runs.
 
@@ -273,7 +271,6 @@ notepad articles\1.txt             # spot-check: title + body only
 - Add a single CLI entry point (`python run.py --all`) with `argparse`.
 - Replace `print` with structured logging.
 - Add unit tests (`pytest`) for the metric functions.
-- Move CSS selectors and settings to a config file.
 - Add a GitHub Actions workflow for linting and tests.
 
 **Output**
